@@ -1,2 +1,2 @@
 #!/bin/bash
-dir > print. /tmp/iamafile
+dir > print. ../tmp/iamafile
