@@ -1,8 +1,2 @@
 #!/bin/bash
- pwd
-# /home/remilekun
-$ ls
-# Documents Downloads Pictures Public
-cd Documents/github/alx
-pwd
-# /home/remilekun/Documents/github/alx
+cd ..
